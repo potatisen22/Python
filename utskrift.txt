@@ -1,0 +1,28 @@
+antal element är: 1
+Linjärsökning tog: 0.0003 sekunder
+sorteringen tog: 0.0012 sekunder
+Binärsökning tog: 0.0005 sekunder
+Element sökning i dictionary tog: 0.1089 sekunder
+
+-----------------------
+antal element är: 10
+Linjärsökning tog: 0.0006 sekunder
+sorteringen tog: 0.01 sekunder
+Binärsökning tog: 0.0008 sekunder
+Element sökning i dictionary tog: 0.1154 sekunder
+
+-----------------------
+antal element är: 100
+Linjärsökning tog: 0.0007 sekunder
+sorteringen tog: 0.1247 sekunder
+Binärsökning tog: 0.0028 sekunder
+Element sökning i dictionary tog: 0.1279 sekunder
+
+-----------------------
+antal element är: 1000
+Linjärsökning tog: 0.018 sekunder
+sorteringen tog: 2.8325 sekunder
+Binärsökning tog: 0.0038 sekunder
+Element sökning i dictionary tog: 0.1362 sekunder
+
+-----------------------
